@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ button{
+    background-color: rgba(0, 128, 0, 0.863);
+    height: 40px;
+    margin: auto;
+ }
+ section{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid red;
+    text-align: ;
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ img{
+    height: 320px;
+    width: 430px;
+    float: right;
+ }
+ section h1{
+    margin: auto;
+    font-size: 50px;
+ }
